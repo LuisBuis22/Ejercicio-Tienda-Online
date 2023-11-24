@@ -1,4 +1,4 @@
-#Ejercicio: Crear una Clase de Tienda Online
+# Ejercicio: Crear una Clase de Tienda Online
 ---
 Crea una clase llamada TiendaOnline que represente una tienda en línea. La tienda debe tener las siguientes propiedades:
 
